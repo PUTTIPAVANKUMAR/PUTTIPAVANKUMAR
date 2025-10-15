@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on Devops Engineer
-- 📫 How to reach me  puttipavan2004@gmail.com
+- 📫 How to reach me  puttipavan2004@gmail.com 
 - 😄 Pronouns:  Pavan
 - ⚡ Fun fact: :( !
 
